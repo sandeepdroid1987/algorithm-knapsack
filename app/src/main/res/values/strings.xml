@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Knapsack Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second_">SecondActivity</string>
+    <string name="enter_your_sack_weight_in_kgs">Enter your Sack Weight in Kgs!</string>
+    <string name="title">Knapsack Demo\nChoose items you want to rob!</string>
+    <string name="error">Sorry!, You cant take any items with the given weight</string>
+    <string name="get_valuable_items">Get Valuable Items</string>
+    <string name="wishlist_add_success">%s is Added in to your Wish list</string>
+    <string name="wishlist_add_error">%s is Already Added in to your Wish list</string>
+
+</resources>
